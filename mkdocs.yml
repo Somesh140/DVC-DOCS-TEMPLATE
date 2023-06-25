@@ -9,8 +9,8 @@ site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: Somesh140/REPO_NAME
-repo_url: https://github.com/Somesh140/REPO_NAME
+repo_name: Somesh140/DVC-DOCS-TEMPLATE
+repo_url: https://github.com/Somesh140/DVC-DOCS-TEMPLATE
 
 # Configuration
 theme:
